@@ -1,9 +1,9 @@
-## Para a construção deste portfólio, forma utilizadas as seguintes tecnologias:
+## Para realização deste projeto, foram ultilizados as seguintes tecnologias:
 - HTML
 - CSS
 - Javascript
 
-##Observações do projeto:
+##Observações:
 - Responsividade
 - Modularização do HTML
 - Acessibilidade
