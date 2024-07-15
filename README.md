@@ -1,15 +1,16 @@
-## Para realização deste projeto, foram ultilizados as seguintes tecnologias:
+## Para a execução deste projeto, foram utilizadas as seguintes tecnologias:
+
 - HTML
 - CSS
-- Javascript
+- JavaScript
 
-##Observações:
-- Responsividade
-- Modularização do HTML
-- Acessibilidade
-- Componetização das páginas
-- Tratamento de JSON
+## Observações Técnicas
 
-### Acessibilidade
-- A acessibilidade segue quase todos os padrões da extensão <b>wave evaluation tool</b>;
-- Durante o cadastro do Produto é possível inserir o texto Alternativo.
+- Responsividade: O design é adaptativo para diferentes dispositivos.
+- Modularização do HTML: Estrutura HTML organizada em módulos.
+- Acessibilidade: Implementação de padrões de acessibilidade conforme a ferramenta Wave Evaluation Tool.
+- Componentização das Páginas: Utilização de componentes reutilizáveis para construir as páginas.
+- Tratamento de JSON: Manipulação e exibição de dados JSON.
+
+## Detalhes de Acessibilidade
+- Texto Alternativo: Inclusão de descrições alternativas ao cadastrar produtos.
